@@ -3,3 +3,7 @@ Here is some work I completed for the CSC343 Course at the Univerity of Toronto 
 * Assignment 1: Relational Algebra
 * Assignment 2: SQL Queries
 * Assignment 3: Database Design, Functional Dependencies, Normal Forms
+
+## Tools Used : 
+* PostgreSQL
+* Java
